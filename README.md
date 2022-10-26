@@ -7,7 +7,7 @@ You have been hired by Super*Duper*Drive, which is a brand new company aiming to
 
 Super*Duper*Drive wants you to focus on building the web application with the skills you acquired in this course. That means you are responsible for developing the server, website, and tests, but other tasks like deployment belong to other teams at the company. 
 
-## Requirements and Roadmap 🛠️🔭
+## Requirements and Roadmap 🛠️ 🗺️
 Your tech lead is excited to work with you and has laid out a development roadmap with requirements and milestones. They tell you that there are three layers of the application you need to implement:
 
 1. The back-end with Spring Boot
